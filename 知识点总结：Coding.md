@@ -508,6 +508,10 @@ public:
 };
 ```
 
+### 最小割算法
+
+https://blog.csdn.net/mmm_jsw/article/details/83787395
+
 ###  “马”在棋盘上的概率
 
 ### 求平方根
@@ -516,6 +520,7 @@ public:
 
 ### 最小编辑距离
 
-### 最小割算法
+### 求两个班成绩的最小差值
 
-https://blog.csdn.net/mmm_jsw/article/details/83787395
+### 猜数字
+
